@@ -1,0 +1,8 @@
+<div .container>
+    <div .row>
+        <div .col-xs-12>
+            <h1>Add me a china
+
+            <form method=post action=@{PersonAddR} enctype=#{enctype}>
+                ^{widget}
+                <button .btn.btn-default>China me up guvnor

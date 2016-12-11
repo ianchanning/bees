@@ -9,3 +9,6 @@
 /comments CommentR POST
 
 /profile ProfileR GET
+/people/add PersonAddR GET POST
+/people/edit/#PersonId PersonEditR GET POST
+/people GetPeopleR GET

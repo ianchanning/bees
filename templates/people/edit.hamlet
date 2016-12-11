@@ -1,0 +1,6 @@
+<div .container>
+    <div .row>
+        <div .col-xs-12>
+            <h1>#{personEmail person}
+
+            <div .jumbotron>Shhh... #{personPassword person}
